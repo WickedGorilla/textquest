@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wicke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wicke\\.nuget\\packages"
+    ]
+  }
+}

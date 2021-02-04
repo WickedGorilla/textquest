@@ -1,0 +1,13 @@
+D:\System\Desktop\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.exe
+D:\System\Desktop\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.deps.json
+D:\System\Desktop\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.runtimeconfig.json
+D:\System\Desktop\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.runtimeconfig.dev.json
+D:\System\Desktop\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.dll
+D:\System\Desktop\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.pdb
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.csprojAssemblyReference.cache
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.AssemblyInfoInputs.cache
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.AssemblyInfo.cs
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.csproj.CoreCompileInputs.cache
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.dll
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.pdb
+D:\System\Desktop\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.genruntimeconfig.cache
